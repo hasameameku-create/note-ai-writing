@@ -17,6 +17,7 @@
 | [drafts/draft_02_x_growth_prompts.md](drafts/draft_02_x_growth_prompts.md) | ChatGPTで「バズる型」を量産する。会社員のためのX運用ノウハウnote | X(SNS)運用 |
 | [drafts/draft_03_repeat_clients.md](drafts/draft_03_repeat_clients.md) | 「また、お願いします」を引き出す。副業ライター/SNS運用代行が"単発"を"継続案件"に変える教科書 | 継続案件化・紹介 |
 | [drafts/draft_04_shortvideo_script_agency.md](drafts/draft_04_shortvideo_script_agency.md) | AIで台本を量産する。会社員が土日だけで始める「ショート動画運用代行」副業の教科書 | ショート動画(TikTok/リール)台本づくり代行 |
+| [drafts/draft_05_review_reply_agency.md](drafts/draft_05_review_reply_agency.md) | ChatGPTで口コミ返信を代行する。会社員が土日だけで始める「レビュー返信代行」副業の教科書 | 店舗向け口コミ・レビュー返信代行 |
 
 ## 自動生成ルーティン
 
