@@ -18,6 +18,7 @@
 | [drafts/draft_03_repeat_clients.md](drafts/draft_03_repeat_clients.md) | 「また、お願いします」を引き出す。副業ライター/SNS運用代行が"単発"を"継続案件"に変える教科書 | 継続案件化・紹介 |
 | [drafts/draft_04_shortvideo_script_agency.md](drafts/draft_04_shortvideo_script_agency.md) | AIで台本を量産する。会社員が土日だけで始める「ショート動画運用代行」副業の教科書 | ショート動画(TikTok/リール)台本づくり代行 |
 | [drafts/draft_05_review_reply_agency.md](drafts/draft_05_review_reply_agency.md) | ChatGPTで口コミ返信を代行する。会社員が土日だけで始める「レビュー返信代行」副業の教科書 | 店舗向け口コミ・レビュー返信代行 |
+| [drafts/draft_06_job_ad_copy_agency.md](drafts/draft_06_job_ad_copy_agency.md) | ChatGPTで「応募が来る求人原稿」に変える。会社員が土日だけで始める「求人原稿・採用ページ代行」副業の教科書 | 店舗・中小事業所向け求人原稿代行 |
 
 ## 自動生成ルーティン
 
