@@ -22,6 +22,7 @@
 | [drafts/draft_07_ec_product_copy_agency.md](drafts/draft_07_ec_product_copy_agency.md) | ChatGPTで「売れる商品ページ」に変える。会社員が土日だけで始める「EC商品説明文代行」副業の教科書 | 個人ECショップ向け商品説明文作成代行 |
 | [drafts/draft_08_seminar_lp_copy_agency.md](drafts/draft_08_seminar_lp_copy_agency.md) | ChatGPTで「申し込みが増える集客ページ」に変える。会社員が土日だけで始める「セミナー・講座LPコピー代行」副業の教科書 | コーチ・講師業向けセミナー集客ページ(LP)コピー代行 |
 | [drafts/draft_09_newsletter_stepmail_agency.md](drafts/draft_09_newsletter_stepmail_agency.md) | ChatGPTで「読まれる・売れる」メルマガに変える。会社員が土日だけで始める「メルマガ・ステップメール代行」副業の教科書 | コーチ・オンラインショップ向けメルマガ・ステップメール代行 |
+| [drafts/draft_10_line_official_agency.md](drafts/draft_10_line_official_agency.md) | ChatGPTで「開封・来店につながる」LINE配信文に変える。会社員が土日だけで始める「LINE公式アカウント配信文代行」副業の教科書 | 美容室・飲食店・整体院向けLINE公式アカウント配信文代行 |
 
 ## 自動生成ルーティン
 
